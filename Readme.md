@@ -7,3 +7,6 @@ me
 Licence
 -------
 calculator is distributed under the 'idontreallycare' licence.
+Installation
+===========
+Just run the thing
