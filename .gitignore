@@ -1,0 +1,12 @@
+#comment
+*~	#these are text editor temporary files
+*.swp	#maybe these too
+
+#.DS_Store? 	#a file on Mac systems we don't want to track
+
+#compiler files
+*.o
+*.so
+*.a
+*.dylib
+*.pyc
